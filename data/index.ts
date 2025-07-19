@@ -177,6 +177,16 @@ export const timelineExperience = [
     },
   },
   {
+    title: "Software Developer",
+    content: {
+      description:
+        "This certification demonstrates my comprehensive ability as a full stack and cloud native developer. It goes beyond JavaScript full stack, covering multiple technologies (python, databases management, microservices, & devops). My focus is on complete software architecture, prioritizing robust and versatile solutions.",
+      period: "at IBM",
+      icon: "/exp2.svg",
+      alt: "July, 2024 - November, 2024",
+    },
+  },
+  {
     title: "AI Engineer Student",
     content: {
       description:
@@ -187,7 +197,17 @@ export const timelineExperience = [
     },
   },
   {
-    title: "FrontEnd Web Developer",
+    title: "Javascript Full Stack",
+    content: {
+      description:
+        "I demostrate proficiency in JavaScript, React, Node.js, Express, MongoDB, Next.js, Tailwind CSS, Framer Motion & TypeScript. I have experience in building web applications and APIs using these technologies.",
+      period: "at IBM",
+      icon: "/exp2.svg",
+      alt: "January, 2025 - Present",
+    },
+  },
+  {
+    title: "FrontEnd Web Dev",
     content: {
       description:
         "I'm currently working as a Frontend Web Developer at Kiüve Agency, where I'm developing web applications using modern technologies like Typescript, React.js, Next.js, Tailwind CSS, Framer Motion. Implementing dynamic features, reusable components, support in integration with backend and consumption of APIs. I participate in the planning and continuous improvement of the product in collaboration with multidisciplinary teams. I focus on usability, performance and scalability of interfaces.",
